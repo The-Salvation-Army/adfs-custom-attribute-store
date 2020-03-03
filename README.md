@@ -1,4 +1,4 @@
-# CustomLdapAttributeSore
+# Custom Ldap Attribute Store
 
 This is a custom attribute store for use in ADFS that allows a user's group memberships to be retrieved from an LDAP directory. 
 
